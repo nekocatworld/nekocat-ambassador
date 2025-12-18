@@ -1,0 +1,15 @@
+*
+
+!.gitignore
+
+!contracts/
+contracts/*
+!contracts/**/*.sol
+
+!interfaces/
+interfaces/*
+!interfaces/**/*.sol
+
+!lib/
+lib/*
+!lib/**/*.sol
